@@ -1,2 +1,9 @@
 hi,Good morning today is sunday
 please stay tuned 
+hi, training for Devops Engineeer
+
+
+
+
+
+merging conflict resoved!
